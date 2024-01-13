@@ -1,0 +1,5 @@
+If we use [] brackets to make a variable then,
+it is considered as a list, whereas if we use () brackets
+to make a variable then it is considered as tuple.
+
+And to make a set we need to use {curly braces} in the variable./
